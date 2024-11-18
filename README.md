@@ -32,7 +32,8 @@ Welcome to my GitHub profile. Here you'll find my projects, contributions, and m
 ## Projects
 
 ### Project 1
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=prash08484&repo=Binary-Tree-Visualiser&theme=radical)](https://github.com/prash08484/Binary-Tree-Visualiser)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=prash08484&repo=Binary-Tree-Visualiser&theme=radical)](https://github.com/prash08484/Binary-Tree-Visualiser) &nbsp;&nbsp;
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=prash08484&repo=N-Queen-Visualiser&theme=radical)](https://github.com/prash08484/N-Queen-Visualiser)
 
 ## Let's Connect
  
