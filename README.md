@@ -10,7 +10,7 @@ Welcome to my GitHub profile. Here you'll find my projects, contributions, and m
 - 😄 Pronouns: he/him
 - ⚡ ! !  Have a 😄 good day 👋 ! !
 
-## My GitHub Stats
+## 📊 **GitHub Stats**
 
 ![Prash's GitHub stats](https://github-readme-stats.vercel.app/api?username=prash08484&show_icons=true&theme=radical)
 
@@ -18,7 +18,10 @@ Welcome to my GitHub profile. Here you'll find my projects, contributions, and m
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prash08484&layout=compact&theme=radical)
 
-## Technical Skills
+<!--
+## Technical Skills 
+-->
+## 🛠️ **Tech Stack**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
@@ -36,7 +39,14 @@ Welcome to my GitHub profile. Here you'll find my projects, contributions, and m
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white) 
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 
- ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=machine-learning&logoColor=white) -->
+ ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=machine-learning&logoColor=white) 
+ 
+---
+
+## 🐍 **Contribution Snake**
+![Snake animation](https://github.com/prash08484/prash08484/blob/output/github-contribution-grid-snake.svg)
+
+
 
 ## Projects
 
@@ -44,20 +54,40 @@ Welcome to my GitHub profile. Here you'll find my projects, contributions, and m
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=prash08484&repo=Binary-Tree-Visualiser&theme=radical)](https://github.com/prash08484/Binary-Tree-Visualiser) &nbsp;&nbsp;
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=prash08484&repo=N-Queen-Visualiser&theme=radical)](https://github.com/prash08484/N-Queen-Visualiser)
 
+ -->
+
+## 📂 **Highlighted Projects**
+### [📊 Binary Tree Visualizer](https://github.com/USERNAME/Binary-Tree-Visualiser)  
+> 🛠️ Visualize Binary Trees and their operations  
+> 🌐 [Live Demo](https://binary-tree-visualiser-ds-algo.vercel.app/)  
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=prash08484&repo=Binary-Tree-Visualiser&theme=radical)](https://github.com/USERNAME/Binary-Tree-Visualiser)
+---
+
+### [♟️ N-Queen Visualizer](https://github.com/USERNAME/N-Queen-Visualiser)  
+> 🛠️ Solve the N-Queens problem interactively  
+> 🌐 [Live Demo](https://n-queen-visualiser.vercel.app/)  
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=prash08484&repo=N-Queen-Visualiser&theme=radical)](https://github.com/USERNAME/N-Queen-Visualiser)
+
+
+<!--  
 ## Let's Connect
  
-<!-- ## Projects
 
-### Project 1
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=prash08484&repo=project1&theme=radical)](https://github.com/prash08484/project1) -->
  
 ## Connect with me
+  -->
 
+  ## 🌈 **Let's Connect!**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prashant-yadav-69a199280)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Prash08484)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prash08484@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Prash08484)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://prash08484.github.io/portfolio)
 
-## Competitive Programming Profiles
+
+
+## 🏆 Competitive Programming Profiles
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/your-codeforces-username)
 [![Codechef](https://img.shields.io/badge/Codechef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/your-codechef-username)
@@ -66,6 +96,21 @@ Welcome to my GitHub profile. Here you'll find my projects, contributions, and m
 
 
 
+### ✨ Keep Building and Innovating! 🚀
+<!-- 
+| Profile                                                                                          | Rating                                                                 |
+|--------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|
+| [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/your-codeforces-username) | ![Rating](https://img.shields.io/badge/Rating-1600-blue?style=for-the-badge&logo=codeforces) |
+| [![CodeChef](https://img.shields.io/badge/Codechef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/your-codechef-username)       | ![Rating](https://img.shields.io/badge/Rating-3★-brown?style=for-the-badge&logo=codechef) |
+| [![AtCoder](https://img.shields.io/badge/AtCoder-1F8ACB?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/your-atcoder-username)                | ![Rating](https://img.shields.io/badge/Rating-1200-orange?style=for-the-badge&logo=atcoder) |
+| [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/your-leetcode-username)               | ![Rating](https://img.shields.io/badge/Problems-250_solved-yellow?style=for-the-badge&logo=leetcode) |
+
+ 
 
 ![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+ 
+
+
+
+
 
