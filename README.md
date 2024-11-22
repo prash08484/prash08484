@@ -57,16 +57,16 @@ Welcome to my GitHub profile. Here you'll find my projects, contributions, and m
  -->
 
 ## 📂 **Highlighted Projects**
-### [📊 Binary Tree Visualizer](https://github.com/USERNAME/Binary-Tree-Visualiser)  
+### [📊 Binary Tree Visualizer](https://github.com/Prash08484/Binary-Tree-Visualiser)  
 > 🛠️ Visualize Binary Trees and their operations  
 > 🌐 [Live Demo](https://binary-tree-visualiser-ds-algo.vercel.app/)  
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=prash08484&repo=Binary-Tree-Visualiser&theme=radical)](https://github.com/USERNAME/Binary-Tree-Visualiser)
 ---
 
-### [♟️ N-Queen Visualizer](https://github.com/USERNAME/N-Queen-Visualiser)  
+### [♟️ N-Queen Visualizer](https://github.com/Prash08484/N-Queen-Visualiser)  
 > 🛠️ Solve the N-Queens problem interactively  
-> 🌐 [Live Demo](https://n-queen-visualiser.vercel.app/)  
+> 🌐 [Live Demo](https://n-queen-visualiser-ds-algo-project.vercel.app/)  
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=prash08484&repo=N-Queen-Visualiser&theme=radical)](https://github.com/USERNAME/N-Queen-Visualiser)
 
