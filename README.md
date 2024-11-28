@@ -17,10 +17,7 @@ Welcome to my GitHub profile. Here you'll find my projects, contributions, and m
 ## Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prash08484&layout=compact&theme=radical)
-
-<!--
-## Technical Skills 
--->
+ 
 ## 🛠️ **Tech Stack**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
