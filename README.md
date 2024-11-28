@@ -79,20 +79,13 @@ Welcome to my GitHub profile. Here you'll find my projects, contributions, and m
 ## Connect with me
   -->
 
-  ## 🌈 **Let's Connect!**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prash-nitp)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prash08484@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Prash08484)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://linkedin.com/in/prash-nitp)
-
-
 
 ## 🏆 Competitive Programming Profiles
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/your-codeforces-username)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/your@cf)
 [![Codechef](https://img.shields.io/badge/Codechef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/prash_112)
 [![AtCoder](https://img.shields.io/badge/AtCoder-1F8ACB?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/prash_112)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/t_hi)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/your@lc)
 
 
 
@@ -108,8 +101,46 @@ Welcome to my GitHub profile. Here you'll find my projects, contributions, and m
  
 
 ![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
- 
 
+
+
+  ## 🌈 **Let's Connect!**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prash-nitp)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Prash08484)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://linkedin.com/in/prash-nitp)
+
+
+ -->
+
+---
+
+### 🌟 Thank You for Stopping By!
+
+Feel free to connect or explore more of my work:  
+- 💼 **[Check out my portfolio](https://linkedin.com/in/prash-nitp)**  
+- 🌐 **[Connect on Linkedin](https://linkedin.com/in/prash-nitp)** 
+- 🐦 **[Follow me on Twitter](https://linkedin.com/in/prash-nitp)**  
+- 📧 **[Email me](mailto:your.prash08484@gmail.com)** 
+
+ 
+---
+
+🌟 *"Code is like humor. When you have to explain it, it’s bad."* – *Cory House* 🌟  
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=28F7FF&center=true&vCenter=true&width=435&lines=Thank+You+for+Visiting!+👋;Happy+Coding!+💻;~+Prash08484+🌟" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/59374587/183761809-61b41217-3e73-4d3c-917e-9002a7f0c2f2.gif" alt="Thanks for visiting GIF" width="200" />
+</p>
+
+<p align="center">
+  Made with ❤️ by **Prash08484**
+</p>
 
 
 
