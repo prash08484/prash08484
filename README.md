@@ -57,16 +57,7 @@ Welcome to my GitHub profile. Here you'll find my projects, contributions, and m
 > 🌐 [Live Demo](https://n-queen-visualiser-ds-algo-project.vercel.app/)  
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=prash08484&repo=N-Queen-Visualiser&theme=radical)](https://github.com/Prash08484/N-Queen-Visualiser)
-
-
-<!--  
-## Let's Connect
  
-
- 
-## Connect with me
-  -->
-
 
 ## 🏆 Competitive Programming Profiles
 
@@ -78,23 +69,7 @@ Welcome to my GitHub profile. Here you'll find my projects, contributions, and m
 
 
 ### ✨ Keep Building and Innovating! 🚀
-<!-- 
-| Profile                                                                                          | Rating                                                                 |
-|--------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|
-| [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/your-codeforces-username) | ![Rating](https://img.shields.io/badge/Rating-1600-blue?style=for-the-badge&logo=codeforces) |
-| [![CodeChef](https://img.shields.io/badge/Codechef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/your-codechef-username)       | ![Rating](https://img.shields.io/badge/Rating-3★-brown?style=for-the-badge&logo=codechef) |
-| [![AtCoder](https://img.shields.io/badge/AtCoder-1F8ACB?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/your-atcoder-username)                | ![Rating](https://img.shields.io/badge/Rating-1200-orange?style=for-the-badge&logo=atcoder) |
-| [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/your-leetcode-username)               | ![Rating](https://img.shields.io/badge/Problems-250_solved-yellow?style=for-the-badge&logo=leetcode) |
-
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
-
- ## 🌈 **Let's Connect!**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prash-nitp)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Prash08484)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://linkedin.com/in/prash-nitp)
- -->
-
+ 
 ---
 
 ### 🌟 Thank You for Stopping By!
