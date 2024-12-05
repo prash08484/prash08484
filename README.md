@@ -6,8 +6,7 @@ Welcome to my GitHub profile. Here you'll find my projects, contributions, and m
 
 - 👀 I’m interested in Web Dev,Competitive Programming, AI-ML, Open-Source projects.
 - 🌱 I’m currently learning React, Python, machine learning.
-- 💞️ I’m looking to collaborate on open-source, hackathons . 
-- 😄 Pronouns: he/him
+- 💞️ I’m looking to collaborate on open-source, hackathons .  
 - ⚡ ! !  Have a 😄 good day 👋 ! !
  
 ## 📊 GitHub Activity Graph
