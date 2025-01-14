@@ -72,10 +72,10 @@ Welcome to my GitHub profile. Here you'll find my projects, contributions, and m
 
 ## 🏆 Competitive Programming Profiles
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/your@cf)
-[![Codechef](https://img.shields.io/badge/Codechef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/prash_112)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Bit_Bit)
+[![Codechef](https://img.shields.io/badge/Codechef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/jovial_joke_24)
 [![AtCoder](https://img.shields.io/badge/AtCoder-1F8ACB?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/prash_112)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/your@lc)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Bit_Bit)
 
 
 
@@ -86,7 +86,7 @@ Welcome to my GitHub profile. Here you'll find my projects, contributions, and m
 ### 🌟 Thank You for Stopping By!
 
 Feel free to connect or explore more of my work:  
-- 💼 **[Check out my portfolio](https://prash-08484.vercel.app/)**  
+- 💼 **[Check out my portfolio](https://prash-nitp.vercel.app/)**
 - 🌐 **[Connect on Linkedin](https://linkedin.com/in/prash-nitp)** 
 - 🐦 **[Follow me on Twitter](https://x.com/Prash08484)**  
 - 📧 **[Email me](mailto:your.prash08484@gmail.com)** 
@@ -109,7 +109,3 @@ Feel free to connect or explore more of my work:
 <p align="center">
   Made with ❤️ by **Prash08484**
 </p>
-
-
-
-
