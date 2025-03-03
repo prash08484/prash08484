@@ -75,16 +75,6 @@ Welcome to my GitHub profile. Here you'll find my projects, contributions, and m
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=prash08484&repo=N-Queen-Visualiser&theme=radical)](https://github.com/Prash08484/N-Queen-Visualiser)
  
-
-## 🏆 Competitive Programming Profiles
-
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://www.codechef.com/users/prash_112)
-[![Codechef](https://img.shields.io/badge/Codechef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/jovial_joke_24)
-[![AtCoder](https://img.shields.io/badge/AtCoder-1F8ACB?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/prash_112)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/2004)
-
-
-
 ### ✨ Keep Building and Innovating! 🚀
  
 ---
