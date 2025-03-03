@@ -75,10 +75,6 @@ Welcome to my GitHub profile. Here you'll find my projects, contributions, and m
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=prash08484&repo=N-Queen-Visualiser&theme=radical)](https://github.com/Prash08484/N-Queen-Visualiser)
  
-### ✨ Keep Building and Innovating! 🚀
- 
----
-
 ### 🌟 Thank You for Stopping By!
 
 Feel free to connect or explore more of my work:  
