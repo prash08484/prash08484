@@ -5,7 +5,7 @@ Welcome to my GitHub profile. Here you'll find my projects, contributions, and m
 ## About Me
 
 - 👀 I’m interested in Web Dev,Competitive Programming, AI-ML, Open-Source projects.
-- 🌱 I’m currently learning React, Python, machine learning.
+- 🌱 I’m currently learning Machine learning.
 - 💞️ I’m looking to collaborate on open-source, hackathons .  
 - ⚡ ! !  Have a 😄 good day 👋 ! !
  
