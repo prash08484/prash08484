@@ -9,8 +9,8 @@ Welcome to my GitHub profile. Here you'll find my projects, contributions, and m
 - 💞️ I’m looking to collaborate on open-source, hackathons .  
 - ⚡ ! !  Have a 😄 good day 👋 ! !
 
-<!-- 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=prash08484.prash08484)
+<!-- 
 ![Visitor Count](https://img.shields.io/badge/dynamic/json?color=informational&label=Visitor%20Count&query=value&url=https://api.countapi.xyz/hit/prash08484.prash08484)
  -->
  
