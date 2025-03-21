@@ -9,8 +9,8 @@ Welcome to my GitHub profile. Here you'll find my projects, contributions, and m
 - 💞️ I’m looking to collaborate on open-source, hackathons .  
 - ⚡ ! !  Have a 😄 good day 👋 ! !
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=prash08484.prash08484)
 <!-- 
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=prash08484.prash08484)
 ![Visitor Count](https://img.shields.io/badge/dynamic/json?color=informational&label=Visitor%20Count&query=value&url=https://api.countapi.xyz/hit/prash08484.prash08484)
  -->
  
@@ -18,10 +18,11 @@ Welcome to my GitHub profile. Here you'll find my projects, contributions, and m
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Prash08484&theme=react-dark&hide_border=true&area=true)
 
+
+<!--
 ## 🌟 Streaks
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Prash08484&theme=radical&hide_border=true)
-
+-->
 
 ## 📊 **GitHub Stats**
 
@@ -62,7 +63,6 @@ Welcome to my GitHub profile. Here you'll find my projects, contributions, and m
 
 ## 🐍 **Contribution Snake**
 ![Snake animation](https://github.com/prash08484/prash08484/blob/output/github-contribution-grid-snake.svg)
-
  -->
 
 ## 📂 **Highlighted Projects**
