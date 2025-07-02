@@ -7,7 +7,8 @@ Welcome to my GitHub profile. Here you'll find my projects, contributions, and m
 - 👀 I’m interested in Web Dev,Competitive Programming, AI-ML, Open-Source projects.
 - 🌱 I’m currently learning Machine learning.
 - 💞️ I’m looking to collaborate on open-source, hackathons .  
-- ⚡ ! !  Have a 😄 good day 👋 ! !
+- Specialist @CodeForces, Knight @LeetCode, 3⭐ @CodeChef
+- ⚡ ! !  Have a 😄 good day 👋 ! ! 
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=prash08484.prash08484)
 <!-- 
