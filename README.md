@@ -8,28 +8,28 @@ Welcome to my GitHub profile. Here you'll find my projects, contributions, and m
 - 🌱 I’m currently learning Machine learning.
 - 💞️ I’m looking to collaborate on open-source, hackathons .  
 - <span style="font-family: sans-serif; font-size: 16px; line-height: 1; display: inline; vertical-align: middle;">
-  Specialist @
+  Specialist @ CodeForces (
   <img 
     src="https://img.icons8.com/?size=100&id=jldAN67IAsrW&format=png&color=000000"
     alt="Codeforces Icon"
     width="16"
     height="16"
-    style="vertical-align: text-bottom; margin: 0 6px 0 4px;">
-  , Knight @
+    style="vertical-align: text-bottom; margin: 0 6px 0 4px;"> )
+  , Knight @ LeetCode ( 
   <img 
     src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
     alt="LeetCode Icon"
     width="16"
     height="16"
-    style="vertical-align: text-bottom; margin: 0 6px 0 4px;">
-  , 3⭐ @
+    style="vertical-align: text-bottom; margin: 0 6px 0 4px;"> )
+  , 3⭐ @ CodeChef (
   <img 
     src="https://s3.amazonaws.com/codechef_shared/sites/all/themes/abessive/cc-logo.svg"
     alt="CodeChef Icon"
     width="18"
     height="18"
-    style="vertical-align: text-bottom; margin-left: 4px;">
-</span>
+    style="vertical-align: text-bottom; margin-left: 4px;"> )
+</span> 
  
   
 
