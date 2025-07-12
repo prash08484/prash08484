@@ -59,12 +59,11 @@ Welcome to my GitHub profile. Here you'll find my projects, contributions, and m
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prash08484&layout=compact&theme=radical)
  
 ## 🛠️ **Tech Stack**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=langchain&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Folium](https://img.shields.io/badge/Folium-77B829?style=for-the-badge&logo=folium&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -76,6 +75,11 @@ Welcome to my GitHub profile. Here you'll find my projects, contributions, and m
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -91,21 +95,7 @@ Welcome to my GitHub profile. Here you'll find my projects, contributions, and m
 ![Snake animation](https://github.com/prash08484/prash08484/blob/output/github-contribution-grid-snake.svg)
  -->
 
-## 📂 **Highlighted Projects**
-### [📊 Binary Tree Visualizer](https://github.com/Prash08484/Binary-Tree-Visualiser)  
-> 🛠️ Visualize Binary Trees and their operations  
-> 🌐 [Live Demo](https://binary-tree-visualiser-ds-algo.vercel.app/)  
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=prash08484&repo=Binary-Tree-Visualiser&theme=radical)](https://github.com/Prash08484/Binary-Tree-Visualiser)
----
-
-### [♟️ N-Queen Visualizer](https://github.com/Prash08484/N-Queen-Visualiser)  
-> 🛠️ Solve the N-Queens problem interactively  
-> 🌐 [Live Demo](https://n-queen-visualiser-ds-algo-project.vercel.app/)  
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=prash08484&repo=N-Queen-Visualiser&theme=radical)](https://github.com/Prash08484/N-Queen-Visualiser)
  
-### 🌟 Thank You for Stopping By!
 
 Feel free to connect or explore more of my work:  
 - 💼 **[Check out my portfolio](https://prash-nitp.vercel.app/)**
