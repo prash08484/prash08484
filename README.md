@@ -1,11 +1,8 @@
 # Hi there, I'm Prashant! 👋
 
-Welcome to my GitHub profile. Here you'll find my projects, contributions, and more about me.
-
 ## About Me
 
 - 👀 I’m interested in Web Dev,Competitive Programming, AI-ML, Open-Source projects.
-- 🌱 I’m currently learning Machine learning.
 - 💞️ I’m looking to collaborate on open-source, hackathons .  
 - <span style="font-family: sans-serif; font-size: 16px; line-height: 1; display: inline; vertical-align: middle;">
   Specialist @ CodeForces (
@@ -39,13 +36,13 @@ Welcome to my GitHub profile. Here you'll find my projects, contributions, and m
 <!-- 
 ![Visitor Count](https://img.shields.io/badge/dynamic/json?color=informational&label=Visitor%20Count&query=value&url=https://api.countapi.xyz/hit/prash08484.prash08484)
  -->
- 
+<!--
 ## 📊 GitHub Activity Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Prash08484&theme=react-dark&hide_border=true&area=true)
 
 
-<!--
+
 ## 🌟 Streaks
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Prash08484&theme=radical&hide_border=true)
 -->
@@ -57,6 +54,8 @@ Welcome to my GitHub profile. Here you'll find my projects, contributions, and m
 ## Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prash08484&layout=compact&theme=radical)
+
+<!--
  
 ## 🛠️ **Tech Stack**
 ![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=langchain&logoColor=white)
@@ -85,7 +84,7 @@ Welcome to my GitHub profile. Here you'll find my projects, contributions, and m
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-<!--
+
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white) 
  ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=machine-learning&logoColor=white) 
  
@@ -109,7 +108,7 @@ Feel free to connect or explore more of my work:
 🌟 *"Code is like humor. When you have to explain it, it’s bad."* – *Cory House* 🌟  
 
 ---
-
+<!--
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=28F7FF&center=true&vCenter=true&width=435&lines=Thank+You+for+Visiting!+👋;Happy+Coding!+💻;~+Prash08484+🌟" alt="Typing SVG" />
 </p>
@@ -121,3 +120,4 @@ Feel free to connect or explore more of my work:
 <p align="center">
   Made with ❤️ by **Prash08484**
 </p>
+-->
