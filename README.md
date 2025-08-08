@@ -97,7 +97,6 @@
  
 
 Feel free to connect or explore more of my work:  
-- 💼 **[Check out my portfolio](https://prash-nitp.vercel.app/)**
 - 🌐 **[Connect on Linkedin](https://linkedin.com/in/prash-nitp)** 
 - 🐦 **[Follow me on Twitter](https://x.com/Prash08484)**  
 - 📧 **[Email me](mailto:your.prash08484@gmail.com)** 
